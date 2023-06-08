@@ -6,7 +6,7 @@
 
 - Java, Spring Boot, Hibernate
 - PostgreSQL, MongoDB
-- Docker
+- Docker, Docker-compose
 - Jenkins, Git, Maven, Gradle
 
 ## 📫 Связаться со мной
